@@ -1,0 +1,11 @@
+jupyter
+networkx
+numpy
+pandas
+optuna
+pyBKT
+pymer4
+tensorflow
+keras
+matplotlib
+scikit-learn

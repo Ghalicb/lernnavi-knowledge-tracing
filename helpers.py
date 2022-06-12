@@ -1,6 +1,6 @@
 
 """
-These functions were taken & adapted from the course materials.
+Most of these functions were taken & adapted from the course materials.
 """
 
 import numpy as np
