@@ -1,0 +1,5 @@
+/data/*
+.DS_store
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/
